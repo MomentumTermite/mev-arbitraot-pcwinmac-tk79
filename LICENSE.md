@@ -1,4 +1,4 @@
-# 
+# Professionnel MEV arbitrage bot extensions pour Mac OS | Instantané MEV arbitrage bot extensions pour PC Windows. Avec estimation des frais de gaz et mise en cache des données — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
